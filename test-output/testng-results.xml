@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[opening, alivia]]>
+    </line>
+    <line>
+      <![CDATA[opening, tutudumonde]]>
+    </line>
+    <line>
+      <![CDATA[opening, camilla]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-28T15:37:39 IST" name="Suite" finished-at="2023-07-28T15:40:53 IST" duration-ms="193799">
+    <groups>
+    </groups>
+    <test started-at="2023-07-28T15:37:39 IST" name="Test" finished-at="2023-07-28T15:40:53 IST" duration-ms="193799">
+      <class name="AustralianCustomer.Alivia">
+        <test-method signature="aliviatest()[pri:0, instance:AustralianCustomer.Alivia@3a93b025]" started-at="2023-07-28T15:37:39 IST" name="aliviatest" finished-at="2023-07-28T15:38:23 IST" duration-ms="44175" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening, alivia]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aliviatest -->
+      </class> <!-- AustralianCustomer.Alivia -->
+      <class name="AustralianCustomer.Tutudumonde">
+        <test-method signature="tutudumonde()[pri:0, instance:AustralianCustomer.Tutudumonde@223d2c72]" started-at="2023-07-28T15:38:23 IST" name="tutudumonde" finished-at="2023-07-28T15:39:31 IST" duration-ms="67539" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening, tutudumonde]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tutudumonde -->
+      </class> <!-- AustralianCustomer.Tutudumonde -->
+      <class name="AustralianCustomer.Camilla">
+        <test-method signature="camillatest()[pri:0, instance:AustralianCustomer.Camilla@8f4ea7c]" started-at="2023-07-28T15:39:31 IST" name="camillatest" finished-at="2023-07-28T15:40:53 IST" duration-ms="81928" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening, camilla]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- camillatest -->
+      </class> <!-- AustralianCustomer.Camilla -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
