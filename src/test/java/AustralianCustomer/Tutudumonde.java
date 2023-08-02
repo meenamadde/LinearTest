@@ -11,7 +11,7 @@ public class Tutudumonde {
 	  WebDriver driver = new ChromeDriver();
 	  Reporter.log("opening, tutudumonde", true);
 	  driver.get("https://tutudumonde.com/");
-	  //driver.manage().deleteAllCookies();
+	  driver.manage().deleteAllCookies();
 	  Thread.sleep(7000);
 	  driver.close();
 	  
